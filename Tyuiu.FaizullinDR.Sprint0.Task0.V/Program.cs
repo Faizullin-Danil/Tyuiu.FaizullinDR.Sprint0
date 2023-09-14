@@ -13,7 +13,7 @@ namespace Tyuiu.FaizullinDR.Sprint0.Task4.V0.Lib
         //сложение
         public static int Addition(int a, int b)
         {
-          return a + b;
+            return a + b;
         }
 
         //вычитание

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{27C73D38-F2E0-448F-A6E8-CB55453FB803}</ProjectGuid>
+    <ProjectGuid>{BD56F06A-F38B-4218-8399-72DA3D446AE3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.FaizullinDR.Sprint0.Task4.V0.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.FaizullinDR.Sprint0.Task4.V0.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.FaizullinDR.Sprint0.Task0.V0.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.FaizullinDR.Sprint0.Task0.V0.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
