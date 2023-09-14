@@ -11,6 +11,7 @@ namespace Tyuiu.FaizullinDR.Sprint0.Task3.V0.Test
         [TestMethod]
         public void CheckedValid1()
         {
+            //сложение
             Assert.AreEqual(10, DataService.Sum(5, 5));
         }
     }
